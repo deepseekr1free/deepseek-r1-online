@@ -1,6 +1,6 @@
 # deepseek-r1-online
 DeepSeek R1：在线使用免费试用中文官网无需注册登录直接使用满血671B版
- DeepSeek R1：无需注册即刻体验满血671B大模型2025/2/22
+ DeepSeek R1：无需注册即刻体验满血671B大模型2025/3/2
 
 ## 🚪 零门槛极速入口
 **[DeepSeek R1中文官网](https://deep.ch-at.pw)** 现已开放**免注册直通车**，三大核心突破颠覆传统AI使用体验：
